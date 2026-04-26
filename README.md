@@ -8,3 +8,5 @@ Branch 1 Änderung
 =======
 Branch 2 Änderung
 >>>>>>> branch2
+Pull Request (extern):
+https://github.com/edlich/education/pull/577
